@@ -9,4 +9,4 @@ management:
         - '*'
 greeting-service:
   greeting: "Olá"
-  default-value: "usuário de prod"
+  default-value: "prod"
